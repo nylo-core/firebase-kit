@@ -1,0 +1,17 @@
+name: firebase_kit_example
+description: Example app demonstrating firebase_kit package usage.
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+  flutter: '>=3.24.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_kit:
+    path: ../
+  firebase_core: ^4.3.0
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
