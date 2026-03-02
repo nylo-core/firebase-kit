@@ -1,3 +1,13 @@
+## 1.1.1 - 2026-03-02
+
+### Changed
+- Bump `firebase_core` to `^4.4.0`
+- Bump `firebase_messaging` to `^16.1.1`
+- Bump `firebase_analytics` to `^12.1.2`
+- Bump `firebase_crashlytics` to `^5.0.7`
+- Bump `firebase_auth` to `^6.1.4`
+- Bump `cloud_firestore` to `^6.1.2`
+
 ## 1.1.0 - 2026-03-02
 
 ### Added
