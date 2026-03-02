@@ -101,7 +101,9 @@ class FirebaseKit extends Runnable {
     List<FirebaseKitService> services = const [],
     bool Function()? condition,
     String? name,
+    bool enableLogging = true,
   }) async {
+    FirebaseKitLogger.enabled = enableLogging;
     return FirebaseKit._(
       options: options,
       services: services,

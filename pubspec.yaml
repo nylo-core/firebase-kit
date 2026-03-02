@@ -1,6 +1,6 @@
 name: firebase_kit
 description: Firebase integration kit for Flutter applications. Provides streamlined Firebase services including Analytics, Authentication, Crashlytics, Cloud Firestore, and Cloud Messaging.
-version: 1.0.0
+version: 1.1.0
 homepage: https://nylo.dev
 repository: https://github.com/nylo-core/firebase-kit
 issue_tracker: https://github.com/nylo-core/firebase-kit/issues

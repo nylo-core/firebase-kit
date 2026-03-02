@@ -27,7 +27,7 @@ A comprehensive Firebase integration library for Flutter applications. Provides 
 4. Add Firebase Kit to your `pubspec.yaml`:
    ```yaml
    dependencies:
-     firebase_kit: ^1.0.0
+     firebase_kit: ^1.1.0
    ```
 
 ## Quick Start
