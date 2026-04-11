@@ -1,3 +1,15 @@
+## 1.1.2 - 2026-04-11
+
+### Changed
+- Bump `firebase_core` to `^4.6.0`
+- Bump `firebase_messaging` to `^16.1.3`
+- Bump `firebase_analytics` to `^12.2.0`
+- Bump `firebase_crashlytics` to `^5.1.0`
+- Bump `firebase_auth` to `^6.3.0`
+- Bump `cloud_firestore` to `^6.2.0`
+- Bump `mocktail` to `^1.0.5`
+- Bump `firebase_core_platform_interface` to `^6.0.3`
+
 ## 1.1.1 - 2026-03-02
 
 ### Changed
