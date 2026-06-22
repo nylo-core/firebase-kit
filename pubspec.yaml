@@ -1,6 +1,6 @@
 name: firebase_kit
 description: Firebase integration kit for Flutter applications. Provides streamlined Firebase services including Analytics, Authentication, Crashlytics, Cloud Firestore, and Cloud Messaging.
-version: 1.1.4
+version: 1.2.0
 homepage: https://nylo.dev
 repository: https://github.com/nylo-core/firebase-kit
 issue_tracker: https://github.com/nylo-core/firebase-kit/issues
@@ -20,12 +20,12 @@ dependencies:
     sdk: flutter
   service_runner: ^1.0.0
   # Firebase packages
-  firebase_core: ^4.9.0
-  firebase_messaging: ^16.2.2
-  firebase_analytics: ^12.4.1
-  firebase_crashlytics: ^5.2.2
-  firebase_auth: ^6.5.1
-  cloud_firestore: ^6.4.1
+  firebase_core: ^4.11.0
+  firebase_messaging: ^16.4.0
+  firebase_analytics: ^12.4.3
+  firebase_crashlytics: ^5.2.4
+  firebase_auth: ^6.5.3
+  cloud_firestore: ^6.6.0
 
 dev_dependencies:
   flutter_test:
@@ -33,7 +33,7 @@ dev_dependencies:
   flutter_lints: ^6.0.0
   mocktail: ^1.0.5
   plugin_platform_interface: ^2.1.8
-  firebase_core_platform_interface: ^7.0.1
+  firebase_core_platform_interface: ^7.1.0
 
 flutter:
   uses-material-design: true

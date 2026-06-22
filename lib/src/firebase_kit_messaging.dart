@@ -77,7 +77,7 @@ class FirebaseKitMessaging extends FirebaseKitService {
   RemoteMessage? _initialMessage;
 
   FirebaseKitMessaging({
-    this.autoRequestPermission = false,
+    this.autoRequestPermission = true,
     this.onToken,
     this.onAuthorized,
     this.onMessage,

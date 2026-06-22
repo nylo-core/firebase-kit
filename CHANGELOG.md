@@ -1,3 +1,15 @@
+## 1.2.0 - 2026-06-22
+
+### Changed
+- **`FirebaseKitMessaging.autoRequestPermission` now defaults to `true`** (previously `false`), aligning the default with the documented behavior, code examples, and test suite. Apps that construct `FirebaseKitMessaging()` without this flag will now request notification permission on boot. Pass `autoRequestPermission: false` to keep the previous behavior.
+- Bump `firebase_core` to `^4.11.0`
+- Bump `firebase_messaging` to `^16.4.0`
+- Bump `firebase_analytics` to `^12.4.3`
+- Bump `firebase_crashlytics` to `^5.2.4`
+- Bump `firebase_auth` to `^6.5.3`
+- Bump `cloud_firestore` to `^6.6.0`
+- Bump `firebase_core_platform_interface` to `^7.1.0`
+
 ## 1.1.4 - 2026-05-23
 
 ### Changed
